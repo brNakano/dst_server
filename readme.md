@@ -1,5 +1,5 @@
 # Server Cluster Recipe
-> Configures and runs a server cluster for a forest and cave world.
+> Enviroments variables, set to run with forest, caves and mods.
 
 Create a `local.env` for the server token.
 ```dotenv
@@ -10,3 +10,5 @@ Start the server.
 ```shell
 docker-compose up -d
 ```
+
+
